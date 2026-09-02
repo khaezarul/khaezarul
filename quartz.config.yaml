@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: khaezarul
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: khaezarul.github.io/khaezarul
   ignorePatterns:
     - private
     - templates
@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: DM Serif Display
+      body: Inter
+      code: Source Code Pro
     colors:
       lightMode:
         light: "#faf8f8"
@@ -100,11 +100,20 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-themes/core"
-    enabled: false
     options:
-      theme: tokyo-night
-      mode: both
+      fontOrigin: googleFonts
+      title: DM Serif Display
+      header: DM Serif Display
+      body:
+        name: Inter
+        weights: [400]
+        includeItalic: true
+      code: Source Code Pro
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: "kanagawa"
+      mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"

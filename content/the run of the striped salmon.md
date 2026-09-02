@@ -1,0 +1,1 @@
+In the autumn months, the [[striped salmon]] return from the sea to their spawning grounds.
