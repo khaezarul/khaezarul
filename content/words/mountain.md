@@ -1,4 +1,4 @@
-chüasá /tʃʉ̀àsá/
+chüasá /tʃɰà.sá/
 
 - *mountain*, a landmass that rises above its surroundings, and is high enough to be capped with snow;
 - a large number, quantity, or mass of something;

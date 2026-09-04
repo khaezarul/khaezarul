@@ -1,0 +1,7 @@
+The most prevalent form of marriage is group marriage, where multiple women marry multiple men. There are two main reasons for this:
+
+1. Due to widespread pollution, infertility is common. This means monogamous marriages have a high chance of failing, since one or both of the partners may not be able to produce children. The same goes with polygynous or polyandrous marriages: there is a weak link.
+2. There is little arable land. Dividing it under one's children is thus not feasible, because plots will quickly get smaller and smaller, and neither is "one child inherits it all" like in Medieval Europe, because of the aforementioned infertility. The solution to this is marrying one's daughters to another's sons, and one's sons to another's daughters. The resulting two marriages then both inherit things from their families, and there is no repeated division of land.
+
+This also makes it advantageous to have an even gender ratio among one's children. Say, if you only have one son, and that one turns out to be infertile, his marriage will fail and there will be no grandchildren. If you have two, and only one is fertile, then the marriage will still work, and so on.
+This produces another side effect: [[adoption]].

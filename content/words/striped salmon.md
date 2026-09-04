@@ -1,4 +1,4 @@
-tsümi /tsʉ̀mì/
+tsümi /tsʉ̀.mì/
 
 - *striped salmon*, a species of salmon-like fish;
 
