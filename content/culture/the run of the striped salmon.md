@@ -1,5 +1,0 @@
-In the autumn months, the [[striped salmon]] return from the sea to their spawning grounds. They are not as many as seen on Earth, because the seas and rivers are so polluted, but the absence of predators makes it more than enough for the human population.
-
-The arrival of the salmon functions as a holiday for the people, often called "nű-khana te tsümi kóú" (return of the salmon). Great feasts are held soon after the first salmon are caught. The food is ritually blessed by a priest (?), and the fish are thanked for feeding the people. Then, in the night there are dances, believed to bring good luck and ensure that these fish will come again next year.
-
-The feasts are an opportunity for clans to come together, when they are normally spread into different villages and homesteads. The time of the salmon run is also considered ideal for the arrangement of the traditional group marriage. It coincides with many other important events that require the help of extended family, such as the harvest of [[pseudo-rice]], which makes it easy for families to pick out potential partners.

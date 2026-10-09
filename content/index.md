@@ -1,1 +1,1 @@
-A planet, destroyed and abandoned during a great war. A small society of survivors in an area somewhat resembling the Pacific Northwest. There are no predators, but life is still hard, as the ground is poisoned and the land rocky and crater-filled. It is this worldbuilding project that this site is about. Enjoy!
+Here is the starting page of the Kálasítü learning textbook.

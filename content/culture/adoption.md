@@ -1,4 +1,0 @@
-Adoption of children is quite common. The reasons why are these:
-
-1. The family does not have enough children of one gender, which is disadvantageous by the standards of [[group marriage]], so the parents adopt a child from a family that has many children of said gender. Sometimes, children are swapped between families that have opposite gender ratios: one then receives a son, and one a daughter.
-2. The child is an orphan, and their parents were related to the adoptive parents. This brings a cultural obligation to take care of that child, and it may also be good for the first reason described above.
