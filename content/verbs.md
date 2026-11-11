@@ -1,7 +1,9 @@
 ### Conjugation
 
 1sg (I/me) => (s)(i)-
+
 2/3sg (you, he/she/they) => /
+
 plural (we, you, they) => mar-
 
 ### Tenses
