@@ -1,6 +1,6 @@
 ### Conjugation
 
-1sg (I/me) => (s)(i)-
+1sg (I/me) => (s)(e)-
 
 2/3sg (you, he/she/they) => /
 

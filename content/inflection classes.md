@@ -38,7 +38,8 @@ a => aha
 
 Sometimes this can also happen when the word begins with a consonant, in which case it is the first vowel that changes.
 
-##### -CiR-
-the word ends in -CeR, where R is {m, n, ng, r, l}
+##### -CiC-
+the word ends in -CeC, but in any suffixed form, it becomes -CiR instead (seb**e**r / seb**i**rseto)
 
-in any suffixed form, it becomes -CiR instead (seb**e**r / seb**i**rseto)
+##### IU-lowering
+if the first vowel is {i, u}, the prefixed reduplicated syllable has the vowel {e, o}
