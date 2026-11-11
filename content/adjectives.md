@@ -1,0 +1,1 @@
+Adjectives behave like verbs and come before the noun they modify.

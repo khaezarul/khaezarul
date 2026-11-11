@@ -13,6 +13,8 @@
 | water                  | long    |                  |
 | wife, husband, partner | loe     |                  |
 
+---
+
 ### Verbs
 
 | meaning                              | word   | class             |
@@ -30,6 +32,8 @@
 | snow                                 | kile   | hard, IU-lowering |
 | think                                | koden  | {k, g}-h, -CiC-   |
 
+---
+
 ### Adjectives (Verbs)
 | meaning        | word   | class              |
 | -------------- | ------ | ------------------ |
@@ -37,6 +41,8 @@
 | dry            | tar    | soft, -se-         |
 | firm (texture) | eren   | diphthongization   |
 | sweet (taste)  | telpa  | hard               |
+
+---
 
 ### Postpositions
 
