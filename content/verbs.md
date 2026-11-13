@@ -13,7 +13,7 @@ plural (we, you, they) => mar-
 |         | imperfective | perfective | continuous  | habitual      |
 | ------- | ------------ | ---------- | ----------- | ------------- |
 | past    | -P-to        | -P-tsi     | CV- -P-to   | CVĸa- -P-to   |
-| present | /            | -P-na      | CV-         | CVĸa-         |
+| present | /            | -P-na      | CV-P-       | CVĸa-P-       |
 | future  | -P-gu        | -P-ban     | CV- -P-gu   | CVĸa- -P-gu   |
 
 *Tsi* (past perfective) becomes *shi* between vowels, and *ti* after "s". Sometimes there are irregular forms, marked as "*form* in p.p." in [[words]].
