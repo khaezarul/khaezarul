@@ -2,6 +2,8 @@
 
 1sg (I/me) => (s)(e)-
 
+it becomes si- when it is prefixed to a word beginning with h or ' (' is present when it is present in the reduplicated form)
+
 2/3sg (you, he/she/they) => /
 
 plural (we, you, they) => mar-

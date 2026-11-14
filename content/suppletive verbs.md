@@ -3,7 +3,7 @@
 | -si-    | imperfective | perfective  | continuous   | habitual       |
 | ------- | ------------ | ----------- | ------------ | -------------- |
 | past    | wilseto      | shihetseshi | tasaginseto  | ta'asaginseto  |
-| present | si'wel       | shihetsen   | tasesagen    | ta'asesagen    |
+| present | siwel        | shihetsen   | tasesagen    | ta'asesagen    |
 | future  | wilsishu     | shihetsiwan | tasaginsishu | ta'asaginsishu |
 
 | /       | imperfective | perfective | continuous | habitual     |

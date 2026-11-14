@@ -1,32 +1,38 @@
 ### Nouns
 
-| meaning                | word    | class            |
-| ---------------------- | ------- | ---------------- |
-| belly                  | ngusto  | IU-lowering      |
-| comb                   | kartsi  | k-h              |
-| ear                    | pes     | dual             |
-| eye                    | gul     | dual             |
-| gravel                 | hare    |                  |
-| hare                   | pato    | soft             |
-| hole                   | pel     | hard             |
-| land                   | mage    |                  |
-| lime                   | peshen  | soft             |
-| lip                    | melu    |                  |
-| moon                   | tsis    | soft             |
-| mouth                  | busho   | diphthongization |
-| nose                   | seni    |                  |
-| oven                   | ringshe | IU-lowering      |
-| part                   | ga      | soft             |
-| person                 | sado    |                  |
-| pond (clean, clear)    | lamise  |                  |
-| river                  | ikis    | diphthongization |
-| shore (sea or lake)    | ote     | diphthongization |
-| sun                    | olos    | /-'              |
-| top of a mountain      | korbe   | soft             |
-| track (of an animal)   | chosho  |                  |
-| water                  | long    |                  |
-| wife, husband, partner | loe     |                  |
-| willow                 | bis     | soft             |
+| meaning                                 | word    | class                 |
+| --------------------------------------- | ------- | --------------------- |
+| belly                                   | ngusto  | IU-lowering, -de      |
+| cave                                    | hocho   | -de                   |
+| comb                                    | kartsi  | k-h                   |
+| day                                     | ngan    | -iste                 |
+| ear                                     | pes     | dual                  |
+| eye                                     | gul     | dual                  |
+| family (extended, not parents/siblings) | guniska | soft, -de             |
+| gravel                                  | hare    | -de                   |
+| hare                                    | pato    | soft, -de             |
+| hole                                    | pel     | hard                  |
+| house                                   | mus     | IU-lowering           |
+| land                                    | mage    |                       |
+| lime                                    | peshen  | soft, -ede            |
+| lip                                     | melu    | -de                   |
+| moon                                    | tsis    | soft                  |
+| mountain                                | bantsi  | soft, -de             |
+| mouth                                   | busho   | diphthongization, -de |
+| night                                   | kule    | -de                   |
+| nose                                    | seni    | -de                   |
+| oven                                    | ringshe | IU-lowering, -de      |
+| part                                    | ga      | soft, -de             |
+| person                                  | sado    | -de                   |
+| pond (clean, clear)                     | lamise  | -de                   |
+| river                                   | ikis    | diphthongization      |
+| shore (sea or lake)                     | ote     | diphthongization, -de |
+| sun                                     | olos    | /-'                   |
+| top of a mountain                       | korbe   | soft, -de             |
+| track (of an animal)                    | chosho  | -de                   |
+| water                                   | long    |                       |
+| wife, husband, partner                  | loe     | -de                   |
+| willow                                  | bis     | soft                  |
 
 ---
 
@@ -43,16 +49,17 @@ Some common verbs are not listed here, instead they are at [[suppletive verbs]] 
 | drink                                | tela   | hard, soft tense suffixes               |
 | dwell                                | niwas  | IU-lowering                             |
 | eat                                  | san    | -se-                                    |
-| hate                                 |        | IU-lowering                             |
+| hate                                 | su     | IU-lowering                             |
 | hear                                 | kol    | soft                                    |
 | know (something)                     | sun    | s-r                                     |
 | leave                                | noe    | soft tense suffixes                     |
 | lie down                             | wan    |                                         |
 | live                                 | wa     | soft tense suffixes                     |
-| love                                 | harke  | soft tense suffixes                     |
+| love                                 | hage   | soft tense suffixes                     |
 | make                                 | ches   | irregular, chiches- in continuous       |
 | rain                                 | sabes  | -CiC-                                   |
 | see                                  | ebi    | diphthongization                        |
+| shine (of the sun), glow             | nemi   | soft tense suffixes                     |
 | sit down                             | do     | soft tense suffixes                     |
 | snow                                 | kile   | hard, IU-lowering                       |
 | take                                 | she    |                                         |
@@ -64,15 +71,15 @@ Some common verbs are not listed here, instead they are at [[suppletive verbs]] 
 
 ### Adjectives (Verbs)
 
-| meaning        | word   | class                                   |
-| -------------- | ------ | --------------------------------------- |
-| alone          | shusen | IU-lowering, -CiC-, soft tense suffixes |
-| dry            | tar    | soft, -se-                              |
-| far            | dun    | soft tense suffixes, -a-                |
-| firm (texture) | eren   | diphthongization                        |
-| flexible       | siliso | s-r, IU-lowering, soft tense suffixes   |
-| sweet (taste)  | telpa  | hard                                    |
-| wild           | boen   | soft tense suffixes, -o-                |
+| meaning                         | word   | class                                   |
+| ------------------------------- | ------ | --------------------------------------- |
+| alone                           | shusen | IU-lowering, -CiC-, soft tense suffixes |
+| dry                             | tar    | soft, -se-                              |
+| far                             | dun    | soft tense suffixes, -a-                |
+| firm (texture)                  | eren   | diphthongization                        |
+| flexible                        | siliso | s-r, IU-lowering, soft tense suffixes   |
+| sweet (taste)                   | telpa  | hard                                    |
+| wild (not tame or domesticated) | boen   | soft tense suffixes, -o-                |
 
 ---
 
@@ -80,6 +87,7 @@ Some common verbs are not listed here, instead they are at [[suppletive verbs]] 
 
 | meaning                             | word    |
 | ----------------------------------- | ------- |
+| at, during                          | tsinda  |
 | behind                              | usta    |
 | in                                  | ri      |
 | in front of                         | gelinto |
