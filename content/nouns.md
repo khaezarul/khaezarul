@@ -9,3 +9,6 @@ Relations of possession are expressed using the suffix -te (or sometimes -de aft
 
 ### The Definite Article
 The language includes a definite article (no indefinite). This article is "ni" and comes before the noun and any adjectives, numbers, or relative clauses.
+
+### Negation
+"no" is expressed using the same particle "da" that is used for verbs.
