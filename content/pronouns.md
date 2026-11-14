@@ -1,14 +1,14 @@
-|          | pronoun        |
-| -------- | -------------- |
-| 1sg      | no (nó)        |
-| 2sg      | gan (gānŧ)     |
-| 3sg      | beres (bréqs)  |
-| 3sg obv  | tang (táǹ)     |
-| 1pl incl | doe (dobé)     |
-| 1pl excl | kelash (ḱlágs) |
-| 2pl      | tsir (kīr)     |
-| 3pl      | silka (slká)   |
-| 3pl obv  | wegu (wiḱúzß)  |
+|          | pronoun  |
+| -------- | -------- |
+| 1sg      | no       |
+| 2sg      | gan      |
+| 3sg      | beres    |
+| 3sg obv  | tang     |
+| 1pl incl | doe      |
+| 1pl excl | kelash   |
+| 2pl      | tsir     |
+| 3pl      | silka    |
+| 3pl obv  | wegu     |
 
 The obviate ("obv") forms are used when you want to refer to a different person than the previous one. If you say "she said she went home", you would use the normal form if the two she's are the same. If they aren't, then the second one should be the obviate.
 
