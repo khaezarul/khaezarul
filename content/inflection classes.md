@@ -27,6 +27,9 @@ there is an intervening syllable between the stem and the suffixes in some forms
 
 -Ce- in mar-form
 
+##### -V-
+there is an extra vowel between the stem and the suffixes
+
 ##### diphthongization
 if the word begins with a vowel, and the syllable is reduplicated =>
 
@@ -42,4 +45,4 @@ Sometimes this can also happen when the word begins with a consonant, in which c
 the word ends in -CeC, but in any suffixed form, it becomes -CiR instead (seb**e**r / seb**i**rseto)
 
 ##### IU-lowering
-if the first vowel is {i, u}, the prefixed reduplicated syllable has the vowel {e, o}
+if the first vowel is {i, u}, the prefixed reduplicated syllable has the vowel {e, o}, except in the habitual CV'a form.
