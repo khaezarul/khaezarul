@@ -8,6 +8,8 @@ hard => {p, t, k, b, d, g} => {b, d, g, b, d, g}
 
 s => r
 
+d => r
+
 {k, g} => h
 
 / => '
@@ -42,7 +44,10 @@ a => aha
 Sometimes this can also happen when the word begins with a consonant, in which case it is the first vowel that changes.
 
 ##### -CiC-
-the word ends in -CeC, but in any suffixed form, it becomes -CiR instead (seb**e**r / seb**i**rseto)
+the word ends in -CeC, but in any suffixed form, it becomes -CiC instead (seb**e**r / seb**i**rseto)
 
 ##### IU-lowering
 if the first vowel is {i, u}, the prefixed reduplicated syllable has the vowel {e, o}, except in the habitual CV'a form.
+
+##### EO-raising
+if the first vowel is {e, o}, the prefixed reduplicated syllable has the vowel {i, u}, except in the habitual CV'a form.

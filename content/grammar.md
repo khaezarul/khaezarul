@@ -10,7 +10,7 @@ Instead of prepositions, there are postpositions that come after the relevant no
 
 *adjectives before noun*
 
-Self-explanatory. "big house", not "house big".
+*adverbs before verb*
 
 *relative clauses before noun*
 

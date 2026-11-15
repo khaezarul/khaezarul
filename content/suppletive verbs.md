@@ -80,3 +80,25 @@
 | past    | kasemarto    | kasemartsi | sesemumarto | se'asemumarto |
 | present | markas       | kasemaren  | semarsemun  | se'amarsemun  |
 | future  | kasemargu    | kasemarban | sesemumargu | se'asemumargu |
+
+---
+
+### To say
+
+| -si-    | imperfective | perfective | continuous   | habitual       |
+| ------- | ------------ | ---------- | ------------ | -------------- |
+| past    | kuseto       | kuseshi    | tosulsaseto  | to'asulsaseto  |
+| present | segu         | kusen      | tosesulsa    | to'asesulsa    |
+| future  | kusishu      | kusiwan    | tosulsasishu | to'asulsasishu |
+
+| /       | imperfective | perfective | continuous | habitual    |
+| ------- | ------------ | ---------- | ---------- | ----------- |
+| past    | kuto         | kutsi      | tosulsato  | to'asulsato |
+| present | ku           | kuspen     | tosulsa    | to'asulsa   |
+| future  | kugu         | kuban      | tosulsagu  | to'asulsagu |
+
+| -mar-   | imperfective | perfective  | continuous   | habitual       |
+| ------- | ------------ | ----------- | ------------ | -------------- |
+| past    | kuspemarto   | kuspemartsi | tosulsamarto | to'asulsamarto |
+| present | marku        | kuspemaren  | tomartulsa   | to'amartulsa   |
+| future  | kuspemargu   | kuspemarban | tosulsamargu | to'asulsamargu |
