@@ -95,6 +95,15 @@ Some common verbs are not listed here, instead they are at [[suppletive verbs]] 
 
 ---
 
+### Adverbs
+
+| meaning                   | word | proto |
+| ------------------------- | ---- | ----- |
+| a bit, a little, somewhat | gaw  | gáw   |
+| very                      | ran  | rán   |
+
+---
+
 ### Postpositions
 
 | meaning                             | word    |
