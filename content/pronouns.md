@@ -1,19 +1,20 @@
-|          | pronoun  |
-| -------- | -------- |
-| 1sg      | no       |
-| 2sg      | gan      |
-| 3sg      | beres    |
-| 3sg obv  | tang     |
-| 1pl incl | doe      |
-| 1pl excl | kelash   |
-| 2pl      | tsir     |
-| 3pl      | silka    |
-| 3pl obv  | wegu     |
 
-The obviate ("obv") forms are used when you want to refer to a different person than the previous one. If you say "she said she went home", you would use the normal form if the two she's are the same. If they aren't, then the second one should be the obviate.
+|                             | pronoun |
+| --------------------------- | ------- |
+| 1st person singular         | no      |
+| 2nd person singular         | ki      |
+| 3rd person singular         | dun     |
+| 3rd person singular obviate | taya    |
+| 1st person plural inclusive | mis     |
+| 1st person plural exclusive | karë    |
+| 2nd person plural           | olt     |
+| 3rd person plural           | ril     |
+| 3rd person plural obviate   | saksha  |
 
-The inclusive and exclusive forms of "we" depend on whether the addressee ("you") is included. So "we" (me and you) or "we" (me, you, and someone else) is inclusive, and "we" (me and someone else, not you) is exclusive.
+---
 
-There is no gender, no distinction between he, she and they. There is also no difference between I and me, we and us, and so on.
+There is no gender, and thus no distinction between "he" and "she".
 
-For possession ("my", "your") see [[nouns]].
+Inclusive vs. exclusive refers to whether the person you're speaking to is included in this "we". Inclusive we means something like "me and you" or "me and you and someone else". In the exclusive we, "you" is not included, and the we means "me and someone else (not you)".
+
+The obviate forms are for situations like "she said she went away". In English, you don't know whether this second "she" is the same person as the first one. In this language, you would use the obviate form if the second "she" is different, and the normal form if they are the same.

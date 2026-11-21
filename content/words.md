@@ -1,127 +1,136 @@
-### Nouns
+### Nominals
 
-| meaning                                 | word     | class                  |
-| --------------------------------------- | -------- | ---------------------- |
-| belly                                   | ngusto   | IU-lowering, -de       |
-| cave                                    | hocho    | -de                    |
-| comb                                    | kartsi   | k-h                    |
-| core                                    | tisha    | soft, IU-lowering, -de |
-| day                                     | ngan     | -iste                  |
-| ear                                     | pes      | dual                   |
-| eye                                     | gul      | dual                   |
-| family (extended, not parents/siblings) | guniska  | soft, -de              |
-| flour                                   | chao     | -de                    |
-| fog, mist                               | simel    |                        |
-| gravel                                  | hare     | -de                    |
-| hare                                    | pato     | soft, -de              |
-| heart                                   | beli     | -nte                   |
-| hole                                    | pel      | hard                   |
-| house                                   | mus      | IU-lowering            |
-| land                                    | mage     |                        |
-| lime                                    | peshen   | soft, -ede             |
-| lip                                     | melu     | -de                    |
-| moon                                    | tsis     | soft                   |
-| mountain                                | bantsi   | soft, -de              |
-| mouth                                   | busho    | diphthongization, -de  |
-| night                                   | kule     | -de                    |
-| nose                                    | seni     | -de                    |
-| oven                                    | ringshe  | IU-lowering, -de       |
-| part                                    | ga       | soft, -de              |
-| person                                  | sado     | -de                    |
-| pond (clean, clear)                     | lamise   | -de                    |
-| rabbit                                  | chanes   | -CiC-                  |
-| river                                   | ikis     | diphthongization       |
-| roll (food)                             | doeniche | d-r, EO-raising, -de   |
-| shore (sea or lake)                     | ote      | diphthongization, -de  |
-| sun                                     | olos     | /-'                    |
-| top of a mountain                       | korbe    | soft, -de              |
-| track (of an animal)                    | chosho   | -de                    |
-| water                                   | long     |                        |
-| wife, husband, partner                  | loe      | -de                    |
-| willow                                  | bis      | soft                   |
+##### Nouns
 
----
-
-### Verbs
-
-Some common verbs are not listed here, instead they are at [[suppletive verbs]] because of their irregularity.
-
-| meaning                              | word   | class                                   |
-| ------------------------------------ | ------ | --------------------------------------- |
-| bake (without oil, opposed to *fry*) | guntes | soft, -CiC-                             |
-| breathe                              | hesto  |                                         |
-| build                                | ti'on  | hard                                    |
-| burn                                 | tir    | hard, -de-                              |
-| die                                  | ngun   |                                         |
-| drink                                | tela   | hard, soft tense suffixes               |
-| dwell                                | niwas  | IU-lowering                             |
-| eat                                  | san    | -se-                                    |
-| feel                                 | nete   | soft tense suffixes                     |
-| hate                                 | su     | IU-lowering                             |
-| hear                                 | kol    | soft                                    |
-| know (something)                     | sun    | s-r                                     |
-| leave                                | noe    | soft tense suffixes                     |
-| lie down                             | wan    |                                         |
-| live                                 | wa     | soft tense suffixes                     |
-| love                                 | hage   | soft tense suffixes                     |
-| make                                 | ches   | EO-raising                              |
-| rain                                 | sabes  | -CiC-                                   |
-| see                                  | ebi    | diphthongization                        |
-| shine (of the sun), glow             | nemi   | soft tense suffixes                     |
-| sit down                             | do     | soft tense suffixes                     |
-| snow                                 | kile   | hard, IU-lowering                       |
-| take                                 | she    |                                         |
-| think                                | koden  | {k, g}-h, -CiC-                         |
-| touch                                | lis    | irregular, lise- in suffixed -mar- form |
-| want                                 | sindu  | soft tense suffixes                     |
+| meaning              | word    | special | notes                      |
+| -------------------- | ------- | ------- | -------------------------- |
+| apple                | mechë   |         |                            |
+| basis, foundation    | mebël   |         |                            |
+| basket               | faron   |         |                            |
+| blood                | lusa    |         |                            |
+| bolete               | lot     |         |                            |
+| broadleaf forest     | dimël   |         |                            |
+| can, jug             | fulse   |         |                            |
+| cheese               | lutsën  |         |                            |
+| conversation         | la'ënsë |         | from *la'ën* "speak, talk" |
+| dirt                 | hedë    |         |                            |
+| domesticated raptor  | kuna    |         |                            |
+| eagle                | sekara  |         |                            |
+| egg                  | metsë   |         |                            |
+| enemy                | nabi    |         |                            |
+| eye                  | hansa   | dual    |                            |
+| hare                 | paya    |         |                            |
+| hill                 | bon     |         |                            |
+| hollow               | chales  |         |                            |
+| iron                 | los     |         |                            |
+| island               | michai  |         |                            |
+| milk                 | lupsa   |         |                            |
+| peak, top            | brem    |         |                            |
+| pine forest          | bere    |         |                            |
+| plate, dish          | samasa  |         |                            |
+| pond, puddle (dirty) | hanu    |         |                            |
+| shelf mushroom       | lakën   |         |                            |
+| soup                 | saray   |         |                            |
+| stone pine           | neltë   |         |                            |
+| summer               | dont    |         |                            |
+| table                | apsa    |         |                            |
+| terrace, stair step  | dunsël  |         |                            |
+| track (of an animal) | lura    |         |                            |
+| tributary (river)    | tare    |         |                            |
+| warbler (bird)       | morura  |         |                            |
+| winter               | ginër   |         |                            |
+| woods, undergrowth   | mila    |         |                            |
+| yogurt               | sonsël  |         |                            |
 
 ---
 
-### Adjectives (Verbs)
+### Verbals
+##### Verbs
 
-| meaning                         | word   | class                                   |
-| ------------------------------- | ------ | --------------------------------------- |
-| alone                           | shusen | IU-lowering, -CiC-, soft tense suffixes |
-| bad                             | kor    | soft                                    |
-| big                             | soal   | -de-                                    |
-| dry                             | tar    | soft, -se-                              |
-| far                             | dun    | soft tense suffixes, -a-                |
-| firm (texture)                  | eren   | diphthongization                        |
-| flexible                        | siliso | s-r, IU-lowering, soft tense suffixes   |
-| good                            | denen  |                                         |
-| small                           | pishti | soft, IU-lowering, soft tense suffixes  |
-| sweet (taste)                   | telpa  | hard                                    |
-| wild (not tame or domesticated) | boen   | soft tense suffixes, -o-                |
-
----
-
-### Adverbs
-
-| meaning                   | word | proto |
-| ------------------------- | ---- | ----- |
-| a bit, a little, somewhat | gaw  | gáw   |
-| very                      | ran  | rán   |
-
----
-
-### Postpositions
-
-| meaning                             | word    |
-| ----------------------------------- | ------- |
-| at, during                          | tsinda  |
-| behind                              | usta    |
-| in                                  | ri      |
-| in front of                         | gelinto |
-| inside, into                        | pasele  |
-| on, on top of                       | sin     |
-| with (comitative, *with* friends)   | bucha   |
-| with (instrumental, *with* a knife) | hangu   |
+| meaning                       | word    | special |
+| ----------------------------- | ------- | ------- |
+| annoy, pester                 | laisë   |         |
+| braid                         | shorën  |         |
+| breathe                       | testë   |         |
+| carry                         | ken     |         |
+| clean up, wash                | dofi    |         |
+| cook, boil                    | shira   | labile  |
+| do                            | emi     |         |
+| dream                         | nun     |         |
+| drink                         | shotsa  |         |
+| eat                           | mok     |         |
+| farm                          | kokënsa |         |
+| feel                          | sin     |         |
+| flee, retreat                 | leyak   |         |
+| follow                        | dat     |         |
+| freeze                        | lasën   | labile  |
+| hack, split                   | shinël  |         |
+| hate                          | sinta   |         |
+| hunt                          | sutsa   |         |
+| keep in, lock up              | liras   |         |
+| live, dwell                   | hadën   |         |
+| pick (fruit)                  | lik     |         |
+| play                          | hifo    |         |
+| rain                          | toye    |         |
+| rattle                        | tures   | labile  |
+| separate (of fluid, ex. milk) | tifën   | labile  |
+| smell                         | udël    | labile  |
+| snow                          | linël   |         |
+| speak, talk                   | la'ën   |         |
+| spin (yarn)                   | sitsa   |         |
+| take                          | sario   |         |
+| wake up                       | mesta   | labile  |
+| want, desire                  | pol     |         |
 
 ---
 
-### Conjunctions
+##### Adjectives
 
-| meaning | word   |
-| ------- | ------ |
-| and     | ya     |
-| but     | senaso |
+| meaning                   | word  | special |
+| ------------------------- | ----- | ------- |
+| average                   | dain  |         |
+| bad                       | mapsa |         |
+| bitter                    | isë   |         |
+| bored                     | glara |         |
+| dark                      | fal   |         |
+| dry                       | tita  |         |
+| good                      | soke  |         |
+| old (as opposed to young) | koya  |         |
+| soft, pliable             | nona  |         |
+| spread, sparse            | ariak |         |
+| strong-tasting, pungent   | hoil  |         |
+| tired                     | sirsa |         |
+
+
+---
+
+### Adverbials
+
+##### Postpositions
+
+| meaning                             | word   |
+| ----------------------------------- | ------ |
+| behind                              | sofirë |
+| from                                | koshta |
+| in front of                         | sowa   |
+| in, inside                          | on     |
+| under, underneath, below            | lora   |
+| with (comitative, ex. with friends) | tobi   |
+| to (opposite of from)               | si     |
+
+---
+
+##### Adverbs
+
+| meaning     | word   |
+| ----------- | ------ |
+| now         | alsë   |
+| then, after | dachët |
+
+---
+
+##### Conjunctions
+
+| meaning | word |
+| ------- | ---- |
+| and     | in   |

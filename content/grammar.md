@@ -1,20 +1,11 @@
-### Word Order
+The language is SOV (subject object verb). The English sentence "I love you" would literally be "I you love" in it.
 
-*SOV*
+The auxiliary verb comes after the main verb. "I want to walk" becomes "I walk want". The order of verbs is thus opposite from that of English verbs.
 
-First comes the Subject, then the Object, then the Verb. So "she loves him" literally becomes "she him loves".
+Instead of prepositions, there are *post*positions that come after the noun. Instead of "above it", it is "it above".
 
-*postpositions*
+Possessive noun phrases come before the noun, just like in English. "my apple" stays in the same order.
 
-Instead of prepositions, there are postpositions that come after the relevant noun. Not "in the house" but "the house in".
+Relative clauses come after the noun. "the man who walked" stays in the same order, but there is no equivalent of "who" or "that" used and it becomes more like "the man walked".
 
-*adjectives before noun*
-
-*adverbs before verb*
-
-*relative clauses before noun*
-
-A relative clause is like "the man *who wore a hat*". These come before the noun, like "the *who wore a hat* man". More here: [[relative clauses]].
-
-*main verb before auxiliary*
-In a sentence with multiple verbs such as "I love building", the order is reversed compared to English, to "I building love".
+Adjectives ("red", "big"), demonstratives ("this", "that"), articles ("the"), numerals ("one", "two") and quantifiers ("all", "many") all come after the noun in this order: noun - adjective - relative clause - numeral - quantifier - demonstrative/article.

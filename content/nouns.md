@@ -1,16 +1,17 @@
-### Plurals
-The most common plural is through reduplication of the first syllable. Sound rules here: [[inflection classes]].
+##### Plurals
 
-The other form is the "dual plural" which is used with some paired body parts and clothing items (eyes, ears, shoes). This is a prefix, usually sen- but sometimes sem- or seng- depending on the following consonant.
+There is a plural form, that is generally made by duplicating the last consonant and vowel of the noun. However, there are some significant rules and irregularities here, for which I will direct you to the page [[reduplication]].
 
-### Genitives and Possession
+Some nouns have an irregular suffix -nai. These nouns are virtually all paired body parts or clothing items. These are marked as "dual" in [[newheadslang/3/server_docs/words|words]].
 
-Relations of possession are expressed using the suffix -te. This suffix is put after the *possessed* noun. So instead of "John's cat", it is "John cat-te". Similarly, there is no pronominal form such as "my" or "your", instead "my cat" would be "I cat-te".
+---
+##### Possession
 
--te can sometimes be -de as well, or irregular forms such as -ede and -iste. These forms are all marked in the words table.
+Possession is marked on the *possessed* noun instead of the *possessor*. In English, it is "Sara'*s* apple". "Sara" is the possessor, "apple" is the possessed noun. So in this language it would be "apple" that gets an affix instead.
 
-### The Definite Article
-The language includes a definite article (no indefinite). This article is "ni" and comes before the noun and any adjectives, numbers, or relative clauses.
+This affix is the suffix -ta. This never changes form, and comes after the plural suffix.
 
-### Negation
-"no" is expressed using the same particle "da" that is used for verbs.
+---
+##### Articles
+
+There is no indefinite article (English "a/an"), but there is a definite one ("the"). This is the particle "hë", which is put after the noun and all its adjectives and numerals.

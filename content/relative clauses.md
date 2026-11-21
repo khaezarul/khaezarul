@@ -1,1 +1,0 @@
-The relative clause comes before the noun, and there is no "that" used. Literally => "the *wore a hat* man".

@@ -1,1 +1,1 @@
-Here is the starting page.
+Enjoy the server language! Documentation is in progress <3
