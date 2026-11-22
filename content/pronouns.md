@@ -10,9 +10,6 @@
 | 2nd person plural           | olt     |
 | 3rd person plural           | ril     |
 | 3rd person plural obviate   | saksha  |
-
----
-
 There is no gender, and thus no distinction between "he" and "she".
 
 Inclusive vs. exclusive refers to whether the person you're speaking to is included in this "we". Inclusive we means something like "me and you" or "me and you and someone else". In the exclusive we, "you" is not included, and the we means "me and someone else (not you)".
