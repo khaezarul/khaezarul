@@ -50,13 +50,13 @@ No la'ënsë hë nongimin.
 
 What do we play?
 
-Mis saki hifora?
+Mis saki hifomira?
 
 ---
 
 What are you doing?
 
-Olt saki emimira?
+Olt saki emimëra?
 
 ---
 

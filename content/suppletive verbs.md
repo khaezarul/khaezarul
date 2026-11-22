@@ -2,21 +2,21 @@
 
 | 1sg     | imperfective | perfective | continuous | habitual |
 | ------- | ------------ | ---------- | ---------- | -------- |
-| past    | sakëkon      | geshalan   | lenlekon   | lenlelan |
-| present | sakën        | geshadan   | lenlen     | lenledan |
-| future  | sakëmin      | geshaton   | lenlemin   | lenleton |
+| past    | sakëkon      | geshalan   | lenlëkon   | lenlëlan |
+| present | sakën        | geshadan   | lenlën     | lenlëdan |
+| future  | sakëmin      | geshaton   | lenlëmin   | lenlëton |
 
 | 2/3sg   | imperfective | perfective | continuous | habitual |
 | ------- | ------------ | ---------- | ---------- | -------- |
-| past    | sakëko       | geshala    | lenleko    | lenlela  |
-| present | sakë         | geshada    | lenle      | lenleda  |
-| future  | sakëmi       | geshato    | lenlemi    | lenleto  |
+| past    | sakëko       | geshala    | lenlëko    | lenlëla  |
+| present | sakë         | geshada    | lenlë      | lenlëda  |
+| future  | sakëmi       | geshato    | lenlëmi    | lenlëto  |
 
 | pl      | imperfective | perfective | continuous | habitual  |
 | ------- | ------------ | ---------- | ---------- | --------- |
-| past    | sakëkora     | geshalara  | lenlekora  | lenlelara |
-| present | sakëra       | geshadara  | lenlera    | lenledara |
-| future  | sakëmira     | geshatora  | lenlemira  | lenletora |
+| past    | sakëkora     | geshalara  | lenlëkora  | lenlëlara |
+| present | sakëra       | geshadara  | lenlëra    | lenlëdara |
+| future  | sakëmira     | geshatora  | lenlëmira  | lenlëtora |
 
 ----
 
@@ -24,21 +24,21 @@
 
 | 1sg     | imperfective | perfective | continuous | habitual |
 | ------- | ------------ | ---------- | ---------- | -------- |
-| past    | salkon       | salan      | nenekon    | nenelan  |
-| present | salën        | saldan     | nenen      | nenedan  |
-| future  | salmin       | salton     | nenemin    | neneton  |
+| past    | salkon       | salan      | nenëkon    | nenëlan  |
+| present | salën        | saldan     | nenen      | nenëdan  |
+| future  | salmin       | salton     | nenemin    | nenëton  |
 
 | 2/3sg   | imperfective | perfective | continuous | habitual |
 | ------- | ------------ | ---------- | ---------- | -------- |
-| past    | salko        | sala       | neneko     | nenela   |
-| present | sal          | salda      | nene       | neneda   |
-| future  | salmi        | salto      | nenemi     | neneto   |
+| past    | salko        | sala       | nenëko     | nenëla   |
+| present | sal          | salda      | nenë       | nenëda   |
+| future  | salmi        | salto      | nenëmi     | nenëto   |
 
 | pl      | imperfective | perfective | continuous | habitual |
 | ------- | ------------ | ---------- | ---------- | -------- |
-| past    | salkora      | salara     | nenekora   | nenelara |
-| present | salra        | saldara    | nenera     | nenedara |
-| future  | salmira      | saltora    | nenemira   | nenetora |
+| past    | salkora      | salara     | nenëkora   | nenëlara |
+| present | salra        | saldara    | nenëra     | nenëdara |
+| future  | salmira      | saltora    | nenëmira   | nenëtora |
 
 ---
 
