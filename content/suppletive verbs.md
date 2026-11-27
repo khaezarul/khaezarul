@@ -46,18 +46,18 @@
 
 | 1sg     | imperfective | perfective | continuous | habitual  |
 | ------- | ------------ | ---------- | ---------- | --------- |
-| past    | toderakon    | toderalan  | kupsërkon  | kupsërlan |
-| present | toderan      | toderadan  | kupsërn    | kupsërdan |
-| future  | toderamin    | toderaton  | kupsërmin  | kupsërton |
+| past    | todrakon     | todralan   | kupsërkon  | kupsërlan |
+| present | todran       | todradan   | kupsërn    | kupsërdan |
+| future  | todramin     | todraton   | kupsërmin  | kupsërton |
 
 | 2/3sg   | imperfective | perfective | continuous | habitual |
 | ------- | ------------ | ---------- | ---------- | -------- |
-| past    | toderako     | toderala   | kupsërko   | kupsërla |
-| present | todera       | toderada   | kupsër     | kupsërda |
-| future  | toderami     | toderato   | kupsërmi   | kupsërto |
+| past    | todrako      | todrala    | kupsërko   | kupsërla |
+| present | todra        | todrada    | kupsër     | kupsërda |
+| future  | todrami      | todrato    | kupsërmi   | kupsërto |
 
 | pl      | imperfective | perfective | continuous | habitual   |
 | ------- | ------------ | ---------- | ---------- | ---------- |
-| past    | toderakora   | toderalara | kupsërkora | kupsërlara |
-| present | toderara     | toderadara | kupsëra    | kupsërdara |
-| future  | toderamira   | toderatora | kupsërmira | kupsërtora |
+| past    | todrakora    | todralara  | kupsërkora | kupsërlara |
+| present | todrara      | todradara  | kupsëra    | kupsërdara |
+| future  | todramira    | todratora  | kupsërmira | kupsërtora |

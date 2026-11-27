@@ -8,4 +8,4 @@ Possessive noun phrases come before the noun, just like in English. "my apple" s
 
 Relative clauses come after the noun. "the man who walked" stays in the same order, but there is no equivalent of "who" or "that" used and it becomes more like "the man walked".
 
-Adjectives ("red", "big"), demonstratives ("this", "that"), articles ("the"), numerals ("one", "two") and quantifiers ("all", "many") all come after the noun in this order: noun - adjective - relative clause - numeral - quantifier - demonstrative/article.
+Adjectives ("red", "big"), demonstratives ("this", "that"), numerals ("one", "two") and quantifiers ("all", "many") all come after the noun in this order: noun - demonstrative - quantifier - numeral - adjective - relative clause

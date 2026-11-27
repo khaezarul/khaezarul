@@ -1,4 +1,4 @@
-This page is not yet complete. Most of the indefinites need to be added, as well as extra question words.
+The particle "shi" is put at the beginning of the sentence, and makes it into a yes/no question.
 
 | meaning | question | some-     | every-      | no-      | any-      |
 | ------- | -------- | --------- | ----------- | -------- | --------- |

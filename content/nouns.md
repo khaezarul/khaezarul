@@ -9,9 +9,15 @@ Some nouns have an irregular suffix -nai. These nouns are virtually all paired b
 
 Possession is marked on the *possessed* noun instead of the *possessor*. In English, it is "Sara'*s* apple". "Sara" is the possessor, "apple" is the possessed noun. So in this language it would be "apple" that gets an affix instead.
 
-This affix is the suffix -ta. This never changes form, and comes after the plural suffix.
+This affix is the suffix -ta. This never changes form, and comes after all the other suffixes.
 
 ---
-##### Articles
+##### Articles and Demonstratives
 
-There is no indefinite article (English "a/an"), but there is a definite one ("the"). This is the particle "hë", which is put after the noun and all its adjectives and numerals.
+There is no indefinite article (English "a/an"), but there is a definite one ("the"). This is the suffix -(ë)në, which is put after the noun but before the possessional -ta.
+
+There are also the demonstratives -(a)li (this, these) and -(a)ka (that, those).
+
+---
+
+*order* : noun - plural - article/demonstrative - possession

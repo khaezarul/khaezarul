@@ -44,13 +44,13 @@ No glaran.
 
 I'm going to join call.
 
-No la'ënsë hë nongimin.
+No la'ënsënë nongimin.
 
 ---
 
 What do we play?
 
-Mis saki hifomira?
+Mis saki hifora?
 
 ---
 
