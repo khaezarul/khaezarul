@@ -10,6 +10,7 @@
 | basket                        | faron   |                            |
 | bed                           | kun     |                            |
 | belly, abdomen                | sof     |                            |
+| blanket                       | karuta  |                            |
 | blood                         | lorsa   |                            |
 | bolete                        | lot     |                            |
 | bone                          | sik     |                            |
@@ -36,11 +37,13 @@
 | hollow                        | chales  |                            |
 | iron                          | los     |                            |
 | island                        | merchay |                            |
+| landscape, country            | blon    |                            |
 | marsh, wetland (no trees)     | koyo    |                            |
 | milk                          | lupsa   |                            |
 | morning                       | sarën   |                            |
 | mouth                         | polu    |                            |
 | narrow valley, canyon, ravine | shakchi |                            |
+| nation, tribe, community      | roskel  |                            |
 | night                         | tes     |                            |
 | noon, afternoon               | plen    |                            |
 | peak, top                     | brem    |                            |
@@ -48,12 +51,17 @@
 | plate, dish                   | samasa  |                            |
 | pond, puddle (dirty)          | hanu    |                            |
 | raspberry                     | si'il   |                            |
+| salmon                        | krenël  |                            |
+| salt                          | krin    |                            |
+| sand                          | luf     |                            |
 | shelf mushroom                | lakën   |                            |
 | soup                          | saray   |                            |
 | steppe, plain, grassland      | wekshe  |                            |
 | stone pine                    | neltë   |                            |
 | stone, rock                   | tsoya   |                            |
+| string                        | newno   |                            |
 | summer                        | dont    |                            |
+| swamp, wetland (with trees)   | brali   |                            |
 | table                         | apsa    |                            |
 | terrace, stair step           | dunsël  |                            |
 | track (of an animal)          | lura    |                            |
@@ -62,11 +70,10 @@
 | warbler (bird)                | morura  |                            |
 | winter                        | ginër   |                            |
 | woods, undergrowth            | mila    |                            |
+| wool                          | loshël  |                            |
 | yogurt                        | sonsël  |                            |
 
-
----
-
+----
 ### Verbals
 ##### Verbs
 
@@ -89,7 +96,7 @@
 | drink                         | shotsa  |         |                        |
 | eat                           | mok     |         |                        |
 | farm                          | kokënsa |         |                        |
-| fear, be afraid               | klep    |         |                        |
+| fear, be afraid               | kleba   |         |                        |
 | feel                          | sin     |         |                        |
 | flee, retreat                 | leyak   |         |                        |
 | follow                        | dat     |         |                        |
@@ -98,58 +105,58 @@
 | hate                          | sinta   |         |                        |
 | have enough, be full          | ne'ent  |         |                        |
 | hear                          | larë    |         |                        |
+| hope                          | aychë   |         |                        |
 | hunt                          | sutsa   |         |                        |
 | join                          | nongi   |         |                        |
-| keep in, lock up              | liras   |         |                        |
+| keep in, lock up              | liras   |         | liratsa- in cont./hab. |
 | learn                         | teri    |         |                        |
 | live, dwell                   | hadën   |         |                        |
 | pick (fruit)                  | lik     |         |                        |
 | play                          | hifo    |         |                        |
 | quarrel, have an argument     | katël   |         |                        |
 | rain                          | hisa    |         |                        |
-| rattle                        | tures   | labile  | turede- in cont./hab.  |
+| rattle                        | tures   | labile  | turedë- in cont./hab.  |
 | see                           | mekar   |         |                        |
 | separate (of fluid, ex. milk) | tifën   | labile  |                        |
 | shine (of the sun), glow      | shen    |         |                        |
-| sleep                         | bayte   |         |                        |
+| sleep                         | ban     |         |                        |
 | smell                         | udël    | labile  |                        |
 | snow                          | linël   |         |                        |
 | speak, talk                   | la'ën   |         |                        |
 | spin (yarn)                   | sitsa   |         |                        |
-| take                          | saryo   |         |                        |
+| take                          | sasho   |         |                        |
 | wake up                       | mesta   | labile  |                        |
 | walk                          | ngechë  |         |                        |
 | want, desire                  | pol     |         |                        |
 | wear (clothing)               | toyas   |         | toyacha- in cont./hab. |
 | write                         | nisërn  |         |                        |
 
-
 ---
-
 ##### Adjectives
 
 | meaning                   | word  | special |
 | ------------------------- | ----- | ------- |
+| abundant, lush            | mir   |         |
 | bad                       | mapsa |         |
+| barren, dry, dead         | nelk  |         |
 | bitter                    | isë   |         |
 | bored                     | glara |         |
 | cold                      | seta  |         |
 | dark                      | fal   |         |
 | dry                       | tita  |         |
 | far, away                 | tingu |         |
-| good                      | soke  |         |
+| full                      | sada  |         |
+| good                      | sori  |         |
 | happy                     | sowsa |         |
 | old (as opposed to young) | koya  |         |
 | soft, pliable             | nona  |         |
-| spread, sparse            | aryak |         |
+| spread, sparse            | ashak |         |
 | strong-tasting, pungent   | hoil  |         |
 | tired                     | sirsa |         |
 | warm                      | sol   |         |
 | wet                       | na'at |         |
 
-
 ---
-
 ### Adverbials
 
 ##### Postpositions
@@ -160,14 +167,12 @@
 | behind                              | sofirë |
 | from                                | koshta |
 | in front of                         | sowa   |
-| in, inside                          | on     |
+| in, inside                          | medo   |
 | to (opposite of from)               | si     |
 | under, underneath, below            | lora   |
 | with (comitative, ex. with friends) | tobi   |
 
-
 ---
-
 ##### Adverbs
 
 | meaning     | word   |
@@ -177,11 +182,10 @@
 | then, after | dachët |
 | very        | docho  |
 
-
 ---
-
 ##### Conjunctions
 | meaning | word   |
 | ------- | ------ |
 | and     | in     |
+| because | tento  |
 | but     | mokshë |

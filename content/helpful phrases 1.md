@@ -8,13 +8,13 @@ Ki saki sin?
 
 I'm good.
 
-No soken.
+No sorin.
 
 ---
 
 I'm not good.
 
-No soken pa.
+No sorin pa.
 
 ---
 
@@ -26,13 +26,13 @@ No mapsan.
 
 I'm good, just tired.
 
-No soken, sirsan dain.
+No sorin, sirsan dain.
 
 ---
 
 I'm good, but tired.
 
-No soken, mokshë sirsan.
+No sorin, mokshë sirsan.
 
 ---
 
@@ -62,28 +62,28 @@ Olt saki emimëra?
 
 Good day!
 
-Ngo soke!
+Ngo sori!
 
 ---
 
 Good morning!
 
-Sarën soke!
+Sarën sori!
 
 ---
 
 Good afternoon!
 
-Plen soke!
+Plen sori!
 
 ---
 
 Good evening!
 
-Seshpë soke!
+Seshpë sori!
 
 ---
 
 Good night!
 
-Tes soke!
+Tes sori!
